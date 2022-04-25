@@ -1,5 +1,3 @@
-<title>Peng Wang (王鹏)</title>
-</head>
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
