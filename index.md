@@ -10,7 +10,7 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Zhou, Xiuze (周秀泽) </h1>
+<h1>Peng Wang (王鹏)</h1>
 </div>
 <table class="imgtable"><tr><td>
 <a href="https://xiuzezhou.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
